@@ -45,13 +45,13 @@ def validate_data(values):
             raise ValueError(
                 f"Exactly 6 values reguired, you provide {len(values)}"
             )
-    except ValueError as e: 
         print(f"Invalid data: {e}, Please try again.")
         return False
 
+        
     return True
 
-def update_sales_worksheet(data):
+def  update_sales_worksheet(data):
     """
     Function to update worksheet, add new row with list data provided
     """
