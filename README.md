@@ -64,3 +64,7 @@ Love sandwiches staffs are prompted to enter data to calculate surplus and updat
     8.Again click on add buildpack, select Nodejs and save changes.
     9.Deploy section, click deploy method, select github and connect.
     10. Click deploy.
+
+<h3>CREDITS</h3>
+   All the codes used to build love sandwiches project was taken from code Institute
+   love sandwiches walkthrough.    
