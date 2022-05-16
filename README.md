@@ -14,11 +14,13 @@ Love sandwiches staffs are prompted to enter data to calculate surplus and updat
 
 <h3>Features</h3>
 
-    Existing Features:
+   <h3>Existing Features</h3>:
 
     Getting Sales data
     1.Staffs are prompted to enter sales data from last market.
-    2.Data should be six numbers and separated by comas. 
+    2.Data should be six numbers and separated by comas.
+
+![Lovesandwiches](assets/readme-images/enter.png 'love sandwiches')
 
 * Your code must be placed in the `run.py` file
 * Your dependencies must be placed in the `requirements.txt` file
