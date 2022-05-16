@@ -32,29 +32,35 @@ Love sandwiches staffs are prompted to enter data to calculate surplus and updat
     3. Surplus data is calculated and updated.
     4. Stock data worksheet is calculated and updated.
 
-![lovesandwiches](assets/readme-images/enter2.png 'love sandwiches')
+![lovesandwiches](assets/readme-images/enter2.png 'love sandwiches\n')
 ![lovesandwiches](assets/readme-images/enter3.png 'love sandwiches')    
 
-* Your code must be placed in the `run.py` file
-* Your dependencies must be placed in the `requirements.txt` file
-* Do not edit any of the other files or your code may not deploy properly
 
-## Creating the Heroku app
+<h3>TESTING</h3>
+    
+    I Manually tested the love sandwiches project by following these steps:
+       
+       1. The code runs and return expected data result.
+       2. I passed the code through PEP8 online checker.
+       3. I can confirm that there are errors of white trailing spaces.
 
-When you create the app, you will need to add two buildpacks from the _Settings_ tab. The ordering is as follows:
+<h3>Unsolved Bugs</h3>
+     
+     when I started this project I encountered code errors of trailing white spaces.
+     I got tutor assistance on several times by sharing my gitpod workstation. These
+     errors were resolved. 
 
-1. `heroku/python`
-2. `heroku/nodejs`
+<h3>DEPLOYMENT<h3>
+    
+    Love sandwiches was deployed through heroku. Steps taken are:
 
-You must then create a _Config Var_ called `PORT`. Set this to `8000`
-
-If you have credentials, such as in the Love Sandwiches project, you must create another _Config Var_ called `CREDS` and paste the JSON into the value field.
-
-Connect your GitHub repository and deploy as normal.
-
-## Constraints
-
-The deployment terminal is set to 80 columns by 24 rows. That means that each line of text needs to be 80 characters or less otherwise it will be wrapped onto a second line.
-
------
-Happy coding!
+    1.Click on requirement.txt and on the workspace,type pip3 freeze > requirment.txt.
+    2.Then commit file to gitpod.
+    3.create heroku account by by filling out details.
+    4.click on CreateApp and enter Apps name 'Love sandwiches'.
+    5.click on the Setting Tab,then config.var to enter CREDS.
+    6.Copy CREDS.JSON file and add to heroku.
+    7.Click add buildpack, then select PYTHON and save changes.
+    8.Again click on add buildpack, select Nodejs and save changes.
+    9.Deploy section, click deploy method, select github and connect.
+    10. Click deploy.
