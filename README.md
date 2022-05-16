@@ -1,8 +1,9 @@
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
-Welcome victormgbam,
+<h1>LOVE SANDWICHES APP</h1>
 
-This is the Code Institute student template for deploying your third portfolio project, the Python command-line project. The last update to this file was: **August 17, 2021**
+Love sandwiches is pyhton app that handles every market day sales for a company that
+runs a local market store, that sales that diffrent range of sandwiches.
 
 ## Reminders
 
