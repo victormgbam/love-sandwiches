@@ -12,7 +12,13 @@ Love sandwiches app is based on automating sandwiches sales for a company on  ma
 love sandwiches app connect with googlesheet to push data from and into spreadsheet.
 Love sandwiches staffs are prompted to enter data to calculate surplus and update stocks. 
 
-## Reminders
+<h3>Features</h3>
+
+    Existing Features:
+
+    Getting Sales data
+    1.Staffs are prompted to enter sales data from last market.
+    2.Data should be six numbers and separated by comas. 
 
 * Your code must be placed in the `run.py` file
 * Your dependencies must be placed in the `requirements.txt` file

@@ -139,7 +139,6 @@ def calculate_stock_data(data):
     return new_stock_data
 
 
-
 def main():
     """
     Run all program function
@@ -157,7 +156,5 @@ def main():
 print('Welcome To Love Sandwiches Data Automation')
 
 main()
-
-
 
 get_sales_data()
