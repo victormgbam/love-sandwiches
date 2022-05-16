@@ -3,7 +3,14 @@
 <h1>LOVE SANDWICHES APP</h1>
 
 Love sandwiches is pyhton app that handles every market day sales for a company that
-runs a local market store, that sales that diffrent range of sandwiches.
+runs a local market store, that sales that diffrent range of sandwiches.Love sandwich
+app handles data input automation for the company by collecting each market day sales,
+Calculating surplus for the day and making recommendation for sandwiches for the next day.
+
+<h3>How Love Sandwiches Works</h3>
+Love sandwiches app is based on automating sandwiches sales for a company on  market day.
+love sandwiches app connect with googlesheet to push data from and into spreadsheet.
+Love sandwiches staffs are prompted to enter data to calculate surplus and update stocks. 
 
 ## Reminders
 
