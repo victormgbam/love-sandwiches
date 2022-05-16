@@ -22,6 +22,19 @@ Love sandwiches staffs are prompted to enter data to calculate surplus and updat
 
 ![Lovesandwiches](assets/readme-images/enter.png 'love sandwiches')
 
+     3. Accept Staff input for six numbers seperated by comas.  
+
+
+<h3>Input Data Validation and Error-checking></h3>  
+
+    1. Data is validated after six numbers are entered.
+    2. Sales worksheet is updated.
+    3. Surplus data is calculated and updated.
+    4. Stock data worksheet is calculated and updated.
+
+![lovesandwiches](assets/readme-images/enter2.png 'love sandwiches')
+![lovesandwiches](assets/readme-images/enter3.png 'love sandwiches')    
+
 * Your code must be placed in the `run.py` file
 * Your dependencies must be placed in the `requirements.txt` file
 * Do not edit any of the other files or your code may not deploy properly
